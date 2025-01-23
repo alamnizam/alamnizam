@@ -26,6 +26,14 @@ I’m diving deeper into modern Android development practices, experimenting wit
 ## 💬 Ask Me About
 * Modern Android development techniques
 * Getting started with Kotlin Multiplatform and Compose Multiplatform
+
+## 🌟 Featured Projects
+Here are some of my notable works:
+* **Ustore**: It is an innovative fintech-based agricultural platform that addresses the challenges faced by Agri Retailers, aiming to bring transparency and risk mitigation to the Agriculture industry. [App link](https://play.google.com/store/apps/details?id=com.unnatiagro.agripos&hl=en)
+* **Ora Finance**: It is a financial services company and offers credit services for Supply Chain Financing, Credit services for Agri-Machinery and Equipment for rural and agriculture segment. [App link](https://play.google.com/store/apps/details?id=com.app.orafinancecustomer&hl=en)
+
+## 🙋‍♂️ Let’s Connect
+* **Email**: alamnizam@gmail.com
 <!--
 **alamnizam/alamnizam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
