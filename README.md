@@ -34,6 +34,14 @@ Here are some of my notable works:
 
 ## 🙋‍♂️ Let’s Connect
 * **Email**: alamnizam@gmail.com
+* **LinkedIn**: [Nizam Alam](https://www.linkedin.com/in/nizam-alam-qasmi-970076140/)
+  
+  Feel free to reach out for collaborations, questions, or just to say hi!
+
+## 😄 Pronouns
+He/Him
+
+Thanks for stopping by! Let’s build something amazing together! 💡
 <!--
 **alamnizam/alamnizam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
